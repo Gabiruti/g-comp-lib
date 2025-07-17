@@ -1,2 +1,2 @@
 # g-comp-lib
-Biblioteca de componentes UI.
+Biblioteca de componentes de UI.
